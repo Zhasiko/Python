@@ -1,0 +1,1 @@
+print(int(input()) in range(int(input()),int(input())))
